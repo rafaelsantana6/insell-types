@@ -1,18 +1,7 @@
 {
   "name": "insell-types",
-  "version": "1.0.1",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/rafael-santana/insell-types"
-  },
-  "keywords": [],
-  "author": "Rafael Santana",
-  "license": "ISC",
+  "version": "0.0.1",
+  "types": "./index.d.ts",
   "dependencies": {
     "zod": "^3.22.4"
   },
