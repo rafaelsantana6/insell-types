@@ -1,12 +1,13 @@
 {
-  "name": "insell-types",
+  "name": "inselltypes",
   "version": "0.0.1",
-  "types": "./index.d.ts",
+  "types": "./types/index.d.ts",
   "dependencies": {
     "zod": "^3.22.4"
   },
   "devDependencies": {
     "eslint-config-prettier": "^9.1.0",
-    "prettier": "^3.1.1"
+    "prettier": "^3.1.1",
+    "typescript": "^5.3.3"
   }
 }
